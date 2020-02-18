@@ -3,7 +3,6 @@
     "description": "Add phpcbf validator for phpqa tools",
     "type": "library",
     "require": {
-        "squizlabs/php_codesniffer": "^2.0",
         "edgedesign/phpqa": "~1.23"
     },
     "license": "MIT",
