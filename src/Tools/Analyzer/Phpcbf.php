@@ -15,8 +15,6 @@ class Phpcbf extends \Edge\QA\Tools\Tool
 {
     public static $SETTINGS = array(
         'optionSeparator' => '=',
-        'composer' => 'squizlabs/php_codesniffer',
-        'internalClass' => 'PHP_CodeSniffer',
         'outputMode' => OutputMode::RAW_CONSOLE_OUTPUT,
         'errorsXPath' => [
             false=>'',
